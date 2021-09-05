@@ -13,6 +13,7 @@
     <script src="https://kit.fontawesome.com/58f601d66c.js" crossorigin="anonymous"></script>
     {{-- My Style --}}
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="shortcut icon" href="{{ asset('assets/img/icon.jpeg') }}" type="image/x-icon">
     <title>Dashboard</title>
   </head>
   <body>
